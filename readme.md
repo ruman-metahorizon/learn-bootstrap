@@ -12,3 +12,6 @@ git config --global user.email "ruman@gmail.com"
 git commit -m "first commit "
 
 git remote add origin git@github.com:ruman-metahorizon/learn-bootstrap.git
+
+git push origin master
+
